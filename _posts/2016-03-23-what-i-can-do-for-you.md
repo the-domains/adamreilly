@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "As an experienced Civil 3D User, using only the latest and most up to date software, I am capable of delivering a well designed model for your project needs. This model would include a highly accurate surface model along with pipe network models for storm, waste water and/or water lines.\_"
-datePublished: '2016-03-23T16:52:31.728Z'
-dateModified: '2016-03-23T16:52:15.009Z'
+datePublished: '2016-03-23T21:56:43.054Z'
+dateModified: '2016-03-23T21:51:35.413Z'
 title: What I can do for you
 author: []
+sourcePath: _posts/2016-03-23-what-i-can-do-for-you.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-23-what-i-can-do-for-you.md
-published: true
 url: what-i-can-do-for-you/index.html
 _type: Article
 
